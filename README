@@ -1,0 +1,5 @@
+Proyecto para utilizar la aplicación COAx desde una aplicación Web.
+
+Inicialmente se ataca al MsSql server con una copia de la base de datos original del Colegio y se sacan las tablas necesarias.
+
+Las consultas iniciales se hacen sobre los datos existentes y sólo en modo lectura.
